@@ -9,3 +9,5 @@ env/
 !.env.example
 scripts/
 test_grok_mcp.py
+.claude/
+.环境配置
