@@ -8,3 +8,4 @@ env/
 .env.*
 !.env.example
 scripts/
+test_grok_mcp.py
